@@ -1,0 +1,16 @@
+*.o
+*~
+/libsid.so
+/libsid_demo
+/libsid_demo.o
+/unit-test-alu
+/unit-test-bit
+/unit-test-bus
+/unit-test-component
+/unit-test-memory
+/unit-test-cpu-dispatch-week08
+/unit-test-cpu-dispatch-week09
+
+
+/trial
+/trial.c

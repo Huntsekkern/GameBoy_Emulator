@@ -1,0 +1,9 @@
+05.04.2020
+Lab1-ALU: bit.h/bit.c
+-- Enumeration: what happens in the default case if not specified?
+-- I modified the merge4 and merge8 functions to call pre-defined functions
+-- What will happen if we shift a uint_8 by << 4? Will it be trunkated?
+-- For merge8 -> should we invoke lsb8 on v1 or it is insured to have 8 bits and zeros for the rest...
+-- row30:  (value & mask) >> index OR  (value & mask) == 0 ? 0 : 1
+-- bit_rotate - how to implement with pointers
+-- bit_edit - what should we do if v is not 0 or 1? why don't we use bit_t for v? I like switch statements, might we change?
