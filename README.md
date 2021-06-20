@@ -1,5 +1,5 @@
 # GameBoy Emulator
-Second Year Processing Project @ EPFL ([CS-212 course](https://edu.epfl.ch/coursebook/en/system-programming-project-CS-212)): GameBoy Emulator
+Second Year C Project @ EPFL ([CS-212 course](https://edu.epfl.ch/coursebook/en/system-programming-project-CS-212)): GameBoy Emulator
 
 by Szabina Horváth-Mikulas and Raoul Gerber
 
